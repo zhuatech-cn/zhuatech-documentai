@@ -1,5 +1,7 @@
 # 知华 DocumentAI 社区版
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 把合同、发票、证照和业务单据转换为可验证的结构化数据，而不是只有一个“看起来正确”的 OCR 结果。
 
 出品方：[知华科技（上海如静知华信息科技有限公司）](https://www.zhuatech.cn/)　工程包名：`cn.zhuatech.documentai`
